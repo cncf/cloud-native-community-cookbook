@@ -1,45 +1,30 @@
-# Lebanese Spinach Pies
-#### Recipe by Mo Moussa (Equinix)
+# Pastelitos de Guayaba y Queso Crema
+#### Ariel Jatib (Cloud Native)
 
-Mo lives in Seattle, but not a day goes by that he doesn’t daydream about eating at his cousin’s restaurant, Saad’s Halal, back in West Philly, or of having a meal at the food truck his parents ran for thirty years in University City. Born in Beirut, Mo’s parents brought their traditional food to Philadelphia with them in 1980, and Mo grew up peeling mountains of garlic with his grandmother, waking up to a sumptuous thirty-dish spread for breakfast, and eating leftovers from the food truck for dinner.
+Ariel was born in Cuba and has warm memories of being in his grandmother’s kitchen on the family farm and of eating ice cream at Coppelia park in Havana. But his most formative food memories are steeped in the rich culinary streets of Miami, where his family settled when he was eight. Ariel enthusiastically describes the joy of going to the corner bakery for a cafecito or cafe con leche and some croquetas, and of the Colombian, Jamaican and Cuban food, music and language that suffused those streets of his youth.
 
-Although Mo doesn’t cook much traditional Lebanese food himself, he tries to share the joy of cooking and of spending time in the kitchen with his six-year-old son. “We make hummus together,” Mo says, “and, you know, put smiley faces on the pizza. Stuff like that.” He hasn’t been able to return to Philly for the past two years, but as soon as he’s able, these spinach pies are the first thing he looks forward to eating.
-
-After that? His cousin’s famous Chicken Maroosh: chicken, sautéed onions, garlic sauce, tomatoes, parsley and pickles on a toasted hoagie.
+Ariel now lives in the eclectic village of Sea Cliff, NY, a place he loves (“Old Victorian houses, hippies, kind of like a miniature San Francisco!”), but he yearns for access to the rich and flavorful food cultures he grew up around. “What I miss most about Miami is the cheap and affordable Hispanic food on every corner,” he says. Before the pandemic Ariel would fill that yearning by finding interesting restaurants and cafes when he traveled. “Every time I went to Chicago I would go to the Cuban restaurant first thing. No deep dish pizza for me,” he says with a smile. But this past year, unable to travel, he decided to “make do and get scrappy” in his own kitchen, recreating the
+Cuban food he loves and misses, like these Pastelitos. “My kids don’t like them,” he says. “And they’re not great for my waist line.” But it’s clear from the way he lights up talking about them that they are delicious and absolutely taste like home.
 
 ## INGREDIENTS
-
-### DOUGH
-* 2 teaspoons active dry yeast
-* 3/4 cup lukewarm water
-* 2 1/2 cups all-purpose flour
-* 1 1/2 teaspoons granulated sugar
-* 1 teaspoon salt
-* 1/3 cup canola or olive oil
-
-### FILLING
-* 1 pound spinach
-* 2 medium onions, finely chopped
-* 2 tablespoons sumac
-* 1/2 tablespoon salt
-1* /2 teaspoon paprika
-* 1/4 teaspoon black pepper (optional)
-* pinch cayenne pepper (optional)
-* 2 tablespoons pine nuts (optional)
-
-### DRESSING
-* 1/4 cup lemon juice
-* 1/4 cup extra virgin olive oil
-* 1-2 tablespoons
-* pomegranate molasses (optional)
-
-### YIELDS
-24 small pies or 12 medium ones
+* 1 box puff pastry (Trader Joe’s All Butter Puff Pastry recommended)
+* 1 container guava paste (found in the Latin food section or online) 
+* 1 container cream cheese at room temperature (generic brands do best)
+* 1 egg, used for egg wash
+* 1 tablespoon water
 
 ## DIRECTIONS
-1. In a small bowl, sprinkle yeast over the water. Let sit for a minute before stirring to combine. Let sit until frothy, about 10 minutes. In the bowl of a large food processor fitted with a dough blade, combine flour, sugar, and salt. Gradually stir in the oil, then the yeast and water combo, until until dough comes together. On a lightly greased surface, knead until smooth and elastic. Place in a large bowl, cover, and let rest 1-2 hours.
-2. Heat a large pan over medium heat and drizzle with about 1 tablespoon olive oil. Add spinach and cook until just wilted. Remove to colander and squeeze out all excess moisture.
-3. In a medium bowl combine onions with sumac, salt, paprika, black pepper and cayenne. Let sit for 5-10 minutes. Squeeze all excess moisture from the onions, add pine nuts and spinach.
-4. In a small bowl combine lemon juice, olive oil, and pomegranate molasses. Pour over the filling ingredients until just moistened, not wet.
-5. Preheat oven to 350ºF. Line two baking sheets with parchment paper (or lightly grease). Divide the dough in half, covering one half as you work. On a large, oiled work surface, roll half the dough until thin, 1/16 to 1/8 of an inch. Use a 4 inch wide circle cutter to cut out circles. Place 1 tablespoon filling in the center of each. Pinch together three edges of the circle over the center of the filling. Seal down one side, then across the other to form a pyramid shape. Place on the prepared baking sheet and repeat with remaining circles and other half of dough.
-6. Bake in preheated oven until golden, 15-20 minutes. Let cool slightly before serving.
+DIRECTIONS
+1. Preheat oven to oven to 400ºF.
+2. Lay out one sheet of puff pastry on parchment paper.
+3. Cut guava paste into slices (12-18) and lay on the puff pastry.
+4. Cut the cream cheese into slices and place on top of the guava paste.
+5. Make an egg wash by beating the 1 tablespoon of water into the egg.
+6. Brush the egg wash along uncovered portions of the puff pastry.
+7. Lay the second puff pastry sheet along the top.
+8. Using your fingers or a pastry utensil, seal the edges and the mounds.
+9. Brush the egg wash on top of the puff pastry.
+10. Using a knife, make a small cut or two on top of each mound.
+11. Bake in the pre-heated oven for 25 minutes, or until golden brown.
+12. Remove from the oven and allow to cool for 15 minutes.
+13. Use a pizza cutter to divide the mounds & enjoy with a cup of coffee or on its own!
