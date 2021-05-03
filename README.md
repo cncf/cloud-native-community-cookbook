@@ -1,6 +1,6 @@
 
 
-![cloudnativecommunitycookbook_promo1](/Users/thomcrowe/Downloads/cloudnativecommunitycookbook.jpg)
+![](images/cloudnativecommunitycookbook.jpg)
 
 Welcome to the **The Cloud Native Community Cookbook** repo! This is a special project cooked up from the hearts and minds at Equinix Metal. 
 
