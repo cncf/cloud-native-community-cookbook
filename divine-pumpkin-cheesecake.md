@@ -1,5 +1,5 @@
 # Divine Pumpkin Cheesecake
-#### Jason Detiberus (EQUINIX) & Leigha Detiberus
+#### Jason Detiberus (Equinix) & Leigha Detiberus
 
 In May of 2020 Jason and his wife Leigha bought a new house in rural, eastern North Carolina for one express purpose: so that they could host larger gatherings. “Leigha loves to cook and create desserts. She loves to share love through meals, host family gatherings and bring people together,” Jason says. But with three kids, lots of extended family nearby, and all their kids’ friends, their old rooms were tight. “We usually have at least fifty people over at a time and our old house would be bursting at the seams — people spilling into the front and back yards.”
 
@@ -8,16 +8,17 @@ Now that Jason and Leigha have a larger house, they can’t wait to host in thei
 ## INGREDIENTS
 ### FOR THE CRUST
 * 1 cup pecans 
-* 1/2 cup all purpose flour 1/2 cup dark brown sugar
-* 1/2 cup graham cracker crumbs (ginger snaps are also really good) 
+* 1/2 cup all purpose flour
+* 1/2 cup dark brown sugar
+* 1/2 cup graham cracker crumbs (ginger snaps are also really good)
 * 2 tablespoons unsalted butter, softened (you can use browned butter here, which is really delicious, just make sure it cools back down to a softened butter consistency)
 * 1 egg yolk
 ### FOR THE FILLING
 * 2 fifteen ounce cans pumpkin puree drained very, very well. (You can use a yogurt strainer and let the liquid drip out on its own—this takes a while, or you can put one can’s worth of puree in a clean kitchen towel and do the twist and squeeze to get as much liquid as you can out then repeat with the other can and another towel.) You want about two cups worth of the drained puree for the cheesecake.
-* 3 tablespoons all purpose flour
-* 1 1/2 teaspoon ground cinnamon 
+* 3 tablespoons all purpose flour 
+* 1 1/2 teaspoon ground cinnamon
 * 1/2 teaspoon ground ginger
-* 1/4 teaspoon grated nutmeg
+* 1/4 teaspoon grated nutmeg 
 * 1/4 teaspoon ground allspice
 * 1/4 teaspoon kosher salt
 * 1/8 teaspoon ground cloves
@@ -45,3 +46,6 @@ Store cheesecake wrapped tightly in plastic in the fridge where it will last 4-5
 7. Place 3 pieces of wide aluminum foil stacked on the counter, each offset from the ones below (rotate the upper two pieces 45-90 degrees so the stack looks sort of like a star). Place the cooled crust in the springform pan in the center of the foil stack and wrap the outside of the pan to protect it from the impending water bath. Don’t fold the foil over the edges of the springform pan otherwise it’ll bake into the cheesecake, just roll it backwards a bit.
 8. Place the wrapped springform pan into a large roasting pan. There needs to be room on all sides to allow the water to pass around. Pour the cheesecake batter into the springform pan.
 9. Put the roasting pan in the center of the oven and pour the boiling water into the pan so it comes about halfway up the side of the springform pan. Bake the cheesecake for about 90 minutes. The outside should be firm, the inside should jiggle. Once you’ve finished baking, turn the oven off, roll up a kitchen towel or oven mitt and prop the oven door open.
+10. Let the cheesecake cool in the propped open oven for another hour. Remove the cheesecake from the oven and let it come to room temperature (we usually do this overnight on the counter). Once the cheesecake has cooled down, rest in the fridge for several hours until completely chilled.
+11. When you’re ready to serve, run the backside of a knife (or an offset spatula) around the sides of the pan to release the cheesecake from the sides, then slowly unlock the pan and remove the sides.
+12. Top with whipped cream (or not, totally up to you) and enjoy

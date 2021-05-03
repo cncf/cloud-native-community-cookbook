@@ -1,11 +1,10 @@
 # Lebanese Spinach Pies
 #### Recipe by Mo Moussa (Equinix)
 
-Mo lives in Seattle, but not a day goes by that he doesn’t daydream about eating at his cousin’s restaurant, Saad’s Halal, back in West Philly, or of having a meal at the food truck his parents ran for thirty years in University City. Born in Beirut, Mo’s parents brought their traditional food to Philadelphia with them in 1980, and Mo grew up peeling mountains of garlic with his grandmother, waking up to a sumptuous thirty-dish spread for breakfast, and eating leftovers from the food truck for dinner.
+Mo lives in Seattle, but not a day goes by that he doesn’t daydream about eating at his cousin’s restaurant, Saad’s Halal, back in West Philly, or of
+having a meal at the food truck his parents ran for thirty years in University City. Born in Beirut, Mo’s parents brought their traditional food to Philadelphia with them in 1980, and Mo grew up peeling mountains of garlic with his grandmother, waking up to a sumptuous thirty-dish spread for breakfast, and eating leftovers from the food truck for dinner.
 
-Although Mo doesn’t cook much traditional Lebanese food himself, he tries to share the joy of cooking and of spending time in the kitchen with his six-year-old son. “We make hummus together,” Mo says, “and, you know, put smiley faces on the pizza. Stuff like that.” He hasn’t been able to return to Philly for the past two years, but as soon as he’s able, these spinach pies are the first thing he looks forward to eating.
-
-After that? His cousin’s famous Chicken Maroosh: chicken, sautéed onions, garlic sauce, tomatoes, parsley and pickles on a toasted hoagie.
+Although Mo doesn’t cook much traditional Lebanese food himself, he tries to share the joy of cooking and of spending time in the kitchen with his six-year-old son. “We make hummus together,” Mo says, “and, you know, put smiley faces on the pizza. Stuff like that.” He hasn’t been able to return to Philly for the past two years, but as soon as he’s able, these spinach pies are the first thing he looks forward to eating. After that? His cousin’s famous Chicken Maroosh: chicken, sautéed onions, garlic sauce, tomatoes, parsley and pickles on a toasted hoagie.
 
 ## INGREDIENTS
 
@@ -22,7 +21,7 @@ After that? His cousin’s famous Chicken Maroosh: chicken, sautéed onions, gar
 * 2 medium onions, finely chopped
 * 2 tablespoons sumac
 * 1/2 tablespoon salt
-1* /2 teaspoon paprika
+* 1/2 teaspoon paprika
 * 1/4 teaspoon black pepper (optional)
 * pinch cayenne pepper (optional)
 * 2 tablespoons pine nuts (optional)
