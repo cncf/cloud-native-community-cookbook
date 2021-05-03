@@ -8,7 +8,7 @@ I’m not sure about your Slack communities, but at Metal, the #eats channel is 
 
 Well, go big or go home, right? We thought just a Metal cookbook wasn’t ambitious enough, so we decided to open it up to the entire Cloud Native Community. We wanted to extend the joy that we had captured in #eats to the rest of you. So without further ado, here is the start of The Cloud Native Community Cookbook. 
 
-[The Cloud Native Community Cookbook (pdf)](https://f.hubspotusercontent20.net/hubfs/3266221/The-Cloud-Native-Community-Cookbook_1.0.pdf
+[<The Cloud Native Community Cookbook (pdf)>](https://f.hubspotusercontent20.net/hubfs/3266221/The-Cloud-Native-Community-Cookbook_1.0.pdf
 
 But this is just the beginning of our Community Cookbook project. We want to hear from more of you, the community! So how do you submit to the cookbook?
 
