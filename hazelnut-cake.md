@@ -1,6 +1,7 @@
 # Hazelnut cake
-#### Recipe by Nicolai von Neudeck (self-employed) & Annette von Neudeck, née Matton
-Annette gifted Nicolai this hazelnut cake recipe in a newly hand written cookbook when he moved from the Netherlands to Berlin. While the new cookbook was lost in a flatshare in 2006, the recipe has been in the family for at least a hundred years and is from a time when gout was a more common disease. Hence the cake is much richer than most cakes today. It is easy to bake, the ingredients do the heavy lifting.
+#### Recipe by Nicolai von Neudeck & Annette von Neudeck, née Matton
+Annette gifted Nicolai this hazelnut cake recipe in a newly hand written cookbook when he moved from the Netherlands to Berlin. While the new cookbook was lost in a flatshare in 2006, the recipe has been in the family for generations and is from a time when gout was a more common disease. Hence the cake is much richer than most cakes today. It is easy to bake, the ingredients do the heavy lifting.  
+With the nutty taste and the caramel hint contrasted by the whipped cream and its overall heavy and sweet character it goes very well with black coffee and is a good cake for birthdays or during winter time.
 ## Ingredients
 ### For the cake
 - 300g ground hazelnut
