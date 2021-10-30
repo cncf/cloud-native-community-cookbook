@@ -1,7 +1,7 @@
 # Grandma Posidento's Sauce with Meatballs
 #### Nicholas Eberts (Google)
 
-While I am only 1/4 Sicilian, my anonn came over to Brooklyn from Palermo during "the Great Arrival" and she was a constant reminder of the Italiano part of my heritage while living in her house during grammar school. This recipe started with Sicilian roots, but my annon was not your everyday Sicilian housewife. She was a master of organization, typing, and Latin (yes Latin), and found a career working in network television studios ghostwriting for execs. Often Grandma would come home regaling tails of collective bosses' inadequate grammar. So ya, Grandma is an OG feminist and I adore her for that. But the point is, she was not at home making sauce all day so the duty was shared with Gramps. Gramps was not Italian, he was a mix of German and Iroquis, and more importantly, and food engineer. The man knew flavors and iterated on his powerful wife's recipe to the point of perfection. This is my humble contribution to the community. Sicilian base layered with German ingenuity. This recipe defines comfort food for me and I hope the community can find some comfort in its preparation, and community-style serving. You make a giant pot and distribute it to your neighborhood - this is the way. Manja.
+While I am only 1/4 Sicilian, my "Gram" came over to Brooklyn from Palermo during "the Great Arrival" and she was a constant reminder of the Italiano part of my heritage while living in her house during grammar school. This recipe started with Sicilian roots, but my annon was not your everyday Sicilian housewife. She was a master of organization, typing, and Latin (yes Latin), and found a career working in network television studios ghostwriting for execs. Often Grandma would come home regaling tails of collective bosses' inadequate grammar. So ya, Grandma is an OG feminist and I adore her for that. But the point is, she was not at home making sauce all day so the duty was shared with Gramps. Gramps was not Italian, he was a mix of German and Iroquis, and more importantly, and food engineer. The man knew flavors and iterated on his powerful wife's recipe to the point of perfection. This is my humble contribution to the community. Sicilian base layered with German ingenuity. This recipe defines comfort food for me and I hope the community can find some comfort in its preparation, and community-style serving. You make a giant pot and distribute it to your neighborhood - this is the way. Mangia.
 
 ## Ingredients
 
@@ -43,9 +43,8 @@ While I am only 1/4 Sicilian, my anonn came over to Brooklyn from Palermo during
 ### Meatballs
 1. Preheat oven to 400°F.
 2. In a large bowl combine water, bread crumbs, and eggs; stir to blend; let stand for 5 minutes. Add the meat and reamining ingredients.
-3. Shape meat into balls, place them on a lightley oiled sheet pan, and cook them for 5 minutes a side.
+3. Shape meat into balls, place them on a lightly oiled sheet pan, and cook them for 5 minutes a side.
 4. Add the meatballs to the sauce - I usually time this so that the meatballs get dropped in when I have 2.5 hours left on the sauce cooking time. 
-
 
 
 
