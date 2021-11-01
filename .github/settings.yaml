@@ -9,9 +9,9 @@ repository:
 
   # A URL with more information about the repository
   homepage: https://cncf.io/projects
-  
+
   # Collaborators: give specific users access to this repository.
-  # Note: changing this file will update the users visible in Github UI 
+  # Note: changing this file will update the users visible in Github UI
   # see /governance/roles.md for details on write access policy
   # note that the permissions below may provide wider access than needed for
   # a specific role, and we trust these individuals to act according to their
@@ -20,15 +20,17 @@ collaborators:
   # Maintainers
   - username: thomcrowe
     permission: admin
+  - username: markyjackson-taulia
+    permission: admin
 
     # Technical Leads
- 
-    
+
+
     # Triage Team
     # manage issues (edit labels, occasionally edit)
     # needs "push" permission, even though triage team should not merge PRs
 
-    
+
     # Security Assessment Facilitator
     # merge PRs in /assesssments according to guidelines
     # triage related issues
