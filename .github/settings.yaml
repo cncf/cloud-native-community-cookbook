@@ -22,7 +22,9 @@ collaborators:
     permission: admin
   - username: markyjackson-taulia
     permission: admin
-
+  - username: jeremytanner
+    permission: admin
+    
     # Technical Leads
 
 
