@@ -2,7 +2,7 @@
 
 Recipe by Tim Davis (vtimd)
 
-When some folks think of BBQ, they think of hamburgers and hotdogs. When people in the South (of the US) think of BBQ, they're specifically thinking of smoked meats. And in Texas, that meat is beef brisket. The central Texas brisket is the pinnacle of BBQ in the world. It can be so simple to make, but takes practice to master. Let's get into it!
+When some folks think of BBQ, they think of hamburgers and hotdogs. When people in the South (of the US) think of BBQ, they're specifically thinking of smoked meats. And in Texas, that meat is beef brisket. The central Texas brisket is the pinnacle of BBQ in the world. It can be so simple to make, but takes practice to master. Every steer is different, so it's not an exact science. You'll need some beef, and as much time / patience as you can get. Let's get into it!
 
 ## What you need:
 
