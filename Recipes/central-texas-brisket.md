@@ -54,7 +54,7 @@ This part can come at different times. I wrap at the stall. Usually 140-160F, or
 
 ### Finishing the Cook
 
-This is where things get interesting. I start checking my brisket for "doneness" at about 203F. I am not looking for specific temps any longer. It's basically done. I know it's "done" for temp. I am looking for tenderness. Stick the instant read probe into the brisket at the thick part. When it goes in smooth like butter, it's done. Anywhere from 203-210F. 
+This is where things get interesting. I start checking my brisket for "doneness" at about 203F. I am not looking for specific temps any longer. It's basically done. I know it's "done" for temp. I am looking for tenderness. Stick the instant read probe into the brisket at the thick part. When it goes in smooth like butter, it's done. Anywhere from 203-210F. It's all about feel. It takes a while for the collagen (fat) to convert to gelatin. This is what makes it moist and not chewy. 
 
 ### The Rest
 
