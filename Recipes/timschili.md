@@ -47,7 +47,8 @@ You use meat to make it thick. You use a combination of big chunks of meat and g
 
 ## Equipment
 
-- Food mill or food processor
+- Food mill, food processor, or immersion blender
+- Chinois or sieve (if not using a food mill)
 - 5qt stock pot
 - 10qt stock pot
 
@@ -58,10 +59,10 @@ You use meat to make it thick. You use a combination of big chunks of meat and g
 3. While chiles are steaming, dice onions, jalapenos and poblanos. 
 4. In 10qt stock pot, heat 2 tablespoons of vegetable oil. Once oil shimmers, add in short ribs. As the short ribs brown, add in 1 tablespoon of cumin, and salt and pepper to taste. Remove short ribs from pot once browned and set aside. 
 5. Knead together sausage and ground beef, then put in 10qt stock pot and brown. 
-6. Remove the dried chiles from the water with tongs. Remove steam and put chiles into the food mill or food processor. Grind into a paste
+6. Remove the dried chiles from the water with tongs. Remove stems and put chiles into the food mill or food processor. Grind into a paste. If using a food processor or immersion blender, press the paste through a chinois or other sieve (even cheesecloth can do in a pinch).
 7. Once ground beef and sausage is cooked, add onions, jalapenos, and poblanos. Turn heat down to medium low. Bring to a simmer and cover. 
 8. After onions, jalapenos, and poblanos are softened, add short ribs and chili paste. Stir till well mixed.
 9. Add in 1 tablespoon of worcestershire sauce along with 2 tablespoons of tomato paste, balsamic vinegar, and balsamic reduction and beef stock. Let reduce for 45 minutes to 3 hours (depending on how intense you like the flavor), stirring occasionally. 
 
-_For thicker chili, add masa._
+_For thicker chili, add masa. For sweeter notes, add molasses_
 
