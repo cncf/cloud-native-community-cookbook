@@ -3,9 +3,7 @@
 
 Being born in Saxonia in Germany and moving to Bavaria in young years might not seem so complicated. You move from One part of the country to another, some would say. In Germany, this means you move out of a one dialect and one cooking style to a completely different style of German language and cuisine. I adopted really fast to the Bavarian style and opened up for the Bavarian kitchen and put some saxonian flavour into it.
 
-
 Gröschtl originated in a region called Tirol in the Austrian alps and the idea was to have an easy-to-make and  adoptable dish. It is also used to deal with leftovers from the day before. Maybe you have found Dinos Sauerbraten in the book, and there are many more roast meat meals in the German cuisine. The idea is to take the leftovers and spice them up in an easy and stomach filling dish that gives you energy and is healthy. I simply love it and whenever there is a roast meat upcoming everyone knows yeah next day is Gröschtl day!
-
 
 Bonus: you can also enjoy it as a vegetarian option, just leave out the meat!
 
