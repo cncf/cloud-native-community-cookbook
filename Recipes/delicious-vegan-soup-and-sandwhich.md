@@ -57,4 +57,4 @@ I love this chickpea salad - it’s go so much flavor and texture, I don’t eve
 2. Mix the tahini, lemon juice, and hot water. If the mixture seems too thick, add more hot water and lemon juice.
 3. Add the tahini mixture to the chickpea mixutre and mix well. If your chickpea salad is too thick, add more tahini, water, and lemon mixture. 
 4. Put your chickpea salad in the refridgerator to chill for at least an hour.
-5. Serve on bread, tortilla, or wrap of your choice of choice (lettuce, sliced tomato, and onions are just a few options.
+5. Serve on bread, in tortilla, in a pita, or on a wrap of your choice of choice (lettuce, sliced tomato, and onions are just a few options.
