@@ -1,6 +1,6 @@
 Going to a plant-based lifestyle wasn’t a big jump for us, but one thing I really missed was a good ole' fashioned soup and sandwhich lunch combo. After some experimenting (and quite a few misses), we found a perfect soup for cool fall evenings that tastes great as leftovers with a delicious, hearty sandwhich the next day. 
 
-# Vegan Creamy Wild Rice Soup
+# Creamy Wild Rice Soup (sans the cream)
 
 
 This soup is a winter favorite at our house. It’s a solid wild rice soup with loads of veggies, perfect for cold days. Best off all, no oil or dairy!
