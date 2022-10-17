@@ -1,6 +1,6 @@
 
 
-![](images/cloudnativecommunitycookbook.jpg)
+![](images/cloudnativecommunitycookbook_v1.2.jpg)
 
 ![](images/cloudnativecommunitycookbook_v2.jpg)
 
