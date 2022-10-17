@@ -2,6 +2,8 @@
 
 ![](images/cloudnativecommunitycookbook.jpg)
 
+![](images/https://github.com/cncf/cloud-native-community-cookbook/blob/main/images/cloudnativecommunitycookbook_v2.jpg)
+
 Welcome to **The Cloud Native Community Cookbook** repo! This is a special project cooked up from the hearts and minds at Equinix Metal. 
 
 I’m not sure about your Slack communities, but at Metal, the #eats channel is one of our most popular channels (followed closely, of course, by #drinks). As COVID-19 spread across the world, our people found themselves increasingly connecting over the culinary experiments they were whipping up in the kitchen. Sourdough starter gone wrong, anyone? Before we knew it, the #eats channel was abuzz. It became a contest: Who could share the most mouthwatering photo? Which recipe would be the favorite of the day? Our people started to comment that we should publish a cookbook with all of our favorite go-to recipes. 
