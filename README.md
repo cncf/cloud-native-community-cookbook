@@ -18,4 +18,4 @@ But this is just the beginning of our Community Cookbook project. We want to hea
 
 Think about it! What are your favorite mouth-watering recipes from the past year? What are the shining culinary stars or your daily cannot live withouts? Create a pull request and submit your recipe to this repo. Make sure you share the story behind the recipe! We want to know why you chose it and why it’s special to you or your family. 
 
-In a few months, we’ll revisit this repo and reach out to those of you who have submitted recipes. Our goal is to have a beautiful and illustrated printed edition of this cookbook to share with you at the next KubeCon North America. We hope this cookbook will serve as a reminder of how we banded together as a community during covid and supported each other in our shared hardships. This hasn’t been an easy year, but we as a community have emerged from it stronger than ever. 
+Every few months, we’ll revisit this repo and reach out to those of you who have submitted recipes. Our goal is to have a beautiful and illustrated printed edition of this cookbook to share with you at KubeCon North America.
