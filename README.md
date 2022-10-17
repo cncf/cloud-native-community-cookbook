@@ -2,7 +2,7 @@
 
 ![](images/cloudnativecommunitycookbook.jpg)
 
-![](images/https://github.com/cncf/cloud-native-community-cookbook/blob/main/images/cloudnativecommunitycookbook_v2.jpg)
+![](images/cloudnativecommunitycookbook_v2.jpg)
 
 Welcome to **The Cloud Native Community Cookbook** repo! This is a special project cooked up from the hearts and minds at Equinix Metal. 
 
