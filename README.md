@@ -4,9 +4,9 @@
 
 ![](images/cloudnativecommunitycookbook_v2.jpg)
 
-[The Cloud Native Community Cookbook V 1.2 (pdf\)](https://origins.dev/assets/docs/Cloud-Native-Community-Cookbook-v1_2.pdf)
+[The Cloud Native Community Cookbook V 1.2 ](https://shop.equinixmetal.com/products/the-cloud-native-community-cookbook)
 
-[The Cloud Native Community Cookbook V 2.0 (pdf\)](https://origins.dev/assets/docs/Cloud-Native-Community-Cookbook-v2.pdf)
+[The Cloud Native Community Cookbook V 2.0 ](https://shop.equinixmetal.com/products/the-cloud-native-community-cookbook-v2-0)
 
 Welcome to **The Cloud Native Community Cookbook** repo! This is a special project cooked up from the hearts and minds at Equinix Metal. 
 
